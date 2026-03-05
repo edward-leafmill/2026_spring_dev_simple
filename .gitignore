@@ -1,0 +1,17 @@
+# Build
+build/
+*.exe
+*.o
+*.obj
+
+# IDE / AI
+.claude/
+.codex/
+.gemini/
+.vscode/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
