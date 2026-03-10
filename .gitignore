@@ -8,7 +8,6 @@ build/
 .claude/
 .codex/
 .gemini/
-.vscode/
 
 # CMake
 CMakeCache.txt
